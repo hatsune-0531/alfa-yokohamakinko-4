@@ -255,6 +255,7 @@ button {
 **********************/
 .main-title {
   margin: 0;
+  position: relative;
 }
 
 .sub-title {
