@@ -258,6 +258,10 @@ button {
   position: relative;
 }
 
+.main-title img {
+  position: absolute;
+}
+
 .main-title p {
   position: absolute;
   color: white;
