@@ -253,21 +253,15 @@ button {
 /*********************
 * title
 **********************/
+
 .main-title {
-  margin: 0;
-  position: relative;
+  background-image:url('assets/images/home.png');
+  background-size: cover
 }
 
-.main-title img {
-  position: absolute;
-}
-
-.main-title p {
-  position: absolute;
-  color: white;
-  top: 0;
-  left: 0;
-}
+.main-title {
+  font-size: 30px;
+  text-align:center;
 
 .sub-title {
   text-align: center;
