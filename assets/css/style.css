@@ -256,12 +256,13 @@ button {
 
 .main-title {
   background-image:url('assets/images/home.png');
-  background-size: cover
+  background-size: cover;
 }
 
 .main-title {
   font-size: 30px;
   text-align:center;
+}
 
 .sub-title {
   text-align: center;
