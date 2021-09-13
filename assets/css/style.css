@@ -257,6 +257,7 @@ button {
 .main-title {
   background-image:url('assets/images/home.png');
   background-size: cover;
+  background-size: auto; 
 }
 
 .main-title h2 {
