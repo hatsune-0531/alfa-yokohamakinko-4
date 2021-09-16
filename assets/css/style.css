@@ -263,6 +263,7 @@ button {
 }
 
 .main-title-text {
+  font-family: serif;
   color: #fff;
   font-size: 36px;
   margin: 0;
