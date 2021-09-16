@@ -510,10 +510,13 @@ button {
   width: 288px;
   margin: 0;
 }
-intro_text {
+.intro_text {
   text-align: center;
   background-color: white;
   margin: 0;
+}
+.bg-color--skin {
+  background-color: #e4d3ab
 }
 /********************
 * Utility
