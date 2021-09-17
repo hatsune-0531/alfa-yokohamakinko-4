@@ -441,6 +441,7 @@ button {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+  padding: 0;
 }
 
 @media screen and (max-width: 940px) {
