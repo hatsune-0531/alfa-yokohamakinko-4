@@ -265,7 +265,7 @@ button {
 
 .main-title-text {
   font-family: serif;
-  color: #c0c0c0;
+  color: #000;
   font-size: 60px;
   margin: 0;
   padding: 0;
@@ -441,6 +441,7 @@ button {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+  padding: 0;
 }
 
 @media screen and (max-width: 940px) {
