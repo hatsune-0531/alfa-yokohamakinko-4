@@ -537,3 +537,7 @@ button {
   display: none;
 }
 /*# sourceMappingURL=style.css.map */
+
+.story__note__outer {
+  padding: 0;
+}
