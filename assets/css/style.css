@@ -265,7 +265,7 @@ button {
 .main-title-text {
   font-family: serif;
   color: #fff;
-  font-size: 36px;
+  font-size: 50px;
   margin: 0;
   padding: 0;
   position: absolute;
@@ -537,7 +537,3 @@ button {
   display: none;
 }
 /*# sourceMappingURL=style.css.map */
-
-.story__note__outer {
-  padding: 0;
-}
